@@ -1,0 +1,6 @@
+c:\users\rafal\documents\visual studio 2012\Projects\StringPermutationCheck\StringPermutationCheck\bin\Debug\StringPermutationCheck.exe.config
+c:\users\rafal\documents\visual studio 2012\Projects\StringPermutationCheck\StringPermutationCheck\obj\Debug\StringPermutationCheck.csprojResolveAssemblyReference.cache
+c:\users\rafal\documents\visual studio 2012\Projects\StringPermutationCheck\StringPermutationCheck\bin\Debug\StringPermutationCheck.exe
+c:\users\rafal\documents\visual studio 2012\Projects\StringPermutationCheck\StringPermutationCheck\bin\Debug\StringPermutationCheck.pdb
+c:\users\rafal\documents\visual studio 2012\Projects\StringPermutationCheck\StringPermutationCheck\obj\Debug\StringPermutationCheck.exe
+c:\users\rafal\documents\visual studio 2012\Projects\StringPermutationCheck\StringPermutationCheck\obj\Debug\StringPermutationCheck.pdb
